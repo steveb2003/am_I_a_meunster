@@ -1,0 +1,4 @@
+Number of cheeses that use Pasteurized Milk: 800
+Number of cheeses that use Raw Milk: 115
+Number of Organic cheeses that have a Moisture Percentage over 41: 53
+Animal that most cheeses come from in Canada: Goat
